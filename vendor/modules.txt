@@ -1,0 +1,13 @@
+# github.com/alecthomas/template v0.0.0-20190718012654-fb15b899a751
+github.com/alecthomas/template
+github.com/alecthomas/template/parse
+# github.com/alecthomas/units v0.0.0-20190924025748-f65c72e2690d
+github.com/alecthomas/units
+# github.com/azer/is-terminal v1.0.0
+github.com/azer/is-terminal
+# github.com/azer/logger v1.0.0
+github.com/azer/logger
+# github.com/itsTurnip/dishooks v0.0.0-20200206125049-b4fc7c7b042e
+github.com/itsTurnip/dishooks
+# gopkg.in/alecthomas/kingpin.v2 v2.2.6
+gopkg.in/alecthomas/kingpin.v2
